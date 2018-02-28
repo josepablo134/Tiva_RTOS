@@ -1,0 +1,1 @@
+"./Tiva_RTOS.obj" "./startup_ccs.obj" "./Kernel/kernel.obj" "./Kernel/scheduler.obj" "./Kernel/tasks.obj" "../blinky_ccs.cmd" -llibc.a -l"/home/josepablocb/ti/TivaWare_C_Series-2.1.3.156/driverlib/ccs/Debug/driverlib.lib" 
